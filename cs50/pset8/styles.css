@@ -1,0 +1,18 @@
+.main {
+    padding: 15px;
+    margin: auto;
+}
+
+h1, h5 {
+    color: purple;
+}
+
+img {
+    max-width: 600px;
+}
+
+p {
+    color: grey;
+    font-style: italic;
+}
+
